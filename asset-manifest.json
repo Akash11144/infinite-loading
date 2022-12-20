@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-loading/static/css/main.51d8b6e0.css",
+    "main.js": "/infinite-loading/static/js/main.10ee7ffa.js",
+    "index.html": "/infinite-loading/index.html",
+    "main.51d8b6e0.css.map": "/infinite-loading/static/css/main.51d8b6e0.css.map",
+    "main.10ee7ffa.js.map": "/infinite-loading/static/js/main.10ee7ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d8b6e0.css",
+    "static/js/main.10ee7ffa.js"
+  ]
+}
